@@ -9,9 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@headlessui/react": "^2.1.8",
+    "@heroicons/react": "^2.1.5",
+    "apisauce": "^3.0.1",
+    "axios": "^1.7.7",
+    "formik": "^2.4.6",
+    "framer-motion": "^11.5.4",
+    "jose": "^5.9.2",
+    "next": "14.2.11",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.11"
+    "react-hot-toast": "^2.4.1",
+    "react-query": "^3.39.3",
+    "yup": "^1.4.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "postcss": "^8",
